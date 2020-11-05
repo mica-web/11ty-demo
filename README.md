@@ -14,4 +14,6 @@ Additional languages used as part of this project:
 - [YAML](https://learnxinyminutes.com/docs/yaml/) for writing template front matter
 - [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) for data
 
+Remix [this Glitch project](https://glitch.com/~mica-11ty-demo-start) to follow along with my [tutorial](https://loom.com/share/folder/b2c08180bdcc4fbb9153d475a1646c84).
+
 See [this Glitch project](https://glitch.com/~mica-11ty-demo-final) for the end result of this demo.
